@@ -1,0 +1,14 @@
+{
+  "name": "ai-kit",
+  "owner": {
+    "name": "Ivan Fomichev",
+    "email": "ivanredrock@tutamail.com"
+  },
+  "plugins": [
+    {
+      "name": "kit",
+      "source": "./plugins/kit",
+      "description": "Personal all-in-one toolkit: project setup (/claudify), codebase mapping (/explore), React/frontend PR review (/review, /review-local), work wrap-ups (/summary), and agent onboarding (/onboard-agents)"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "kit",
+  "description": "Personal all-in-one toolkit: project setup, codebase mapping, React/frontend PR review, work wrap-ups, and agent onboarding",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ivan Fomichev",
+    "email": "ivanredrock@tutamail.com"
+  }
+}
